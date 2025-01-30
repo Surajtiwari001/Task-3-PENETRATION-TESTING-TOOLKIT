@@ -1,3 +1,8 @@
+<h1 align='center'>
+  Welcome! Task  3 README.md Profile
+</h1>
+
+
 <p align='center'>
 
   &nbsp;
@@ -5,17 +10,16 @@
 </p>
 <br />
 
-# FILE-INTEGRITY-CHECKER
-FILE INTEGRITY CHECKER
+# PENETRATION-TESTING-TOOLKIT
 
 **COMPANY** : CODTECH IT -SOLUTION
 
-**NAME**  :
+**NAME**  : Suraj Tiwari
 
-**INTERN ID** :
+**INTERN ID** : CT6WIVE
 
-**DOMAIN** : 
+**DOMAIN** : CYBERSECURITY
 
-**BATCH DURATION** :
+**BATCH DURATION** :6 weeks
 
-**MENTOR NAME** :
+**MENTOR NAME** : Neela Santhosh Kumar
